@@ -273,7 +273,7 @@ nav {
 }
 
 .nav_icon img {
-    width: 32px;
+    width: 29px;
 }
 
 .logo {
@@ -362,6 +362,10 @@ section {
 .two_inner .official {
     font-size: 14px;
     margin-bottom: 30px;
+}
+
+.two_inner .text {
+    line-height: 19px;
 }
 
 /*----Section Three----*/
